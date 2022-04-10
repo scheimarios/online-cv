@@ -48,7 +48,7 @@ sidebar:
       - item: # Cooking
         link:
 
-career-profile:
+# career-profile:
     title: # Career Profile
     summary: # |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
