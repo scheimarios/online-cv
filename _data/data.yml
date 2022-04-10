@@ -168,9 +168,9 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+ #   title: Skills &amp; Proficiency
 
-    toolset:
+ #   toolset:
       - name: Python & Django
         level: 98%
 
