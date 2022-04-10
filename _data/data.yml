@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+#    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: ΣΠΥΡΙΔΩΝ ΧΕΙΜΑΡΙΟΣ
@@ -28,17 +28,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: #  http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: # English
-        level: # Native
+#    languages:
+   #   - idiom: # English
+  #      level: # Native
 
-      - idiom: # French
-        level: # Professional
+   #   - idiom: # French
+    #    level: # Professional
 
-      - idiom: # Spanish
-        level: # Professional
+ #     - idiom: # Spanish
+  #      level: # Professional
 
-    interests:
+#    interests:
       - item: # Climbing
         link:
 
@@ -57,7 +57,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education: #
+# education: #
  #   - degree: MSc in Computer Science
   #    university: University of London
    #   time: 2011 - 2012
